@@ -1,4 +1,4 @@
-# Shivam Tawari's Personal Website (or Shivam's Homepage)
+# Shivam's Personal Website
 
 This is the personal academic website of Shivam Tawari, personal description.
 
