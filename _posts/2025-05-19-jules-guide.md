@@ -44,6 +44,6 @@ Collaboration with Jules is designed to be an iterative process. Here’s a typi
 4.  **Execution of the Plan:** Once the plan is approved, Jules begins executing the outlined steps. This may involve writing new code, modifying existing files, reading documentation, or utilizing other integrated tools. For more complex tasks, Jules might be designed to break down the work into smaller, manageable sub-tasks.
 5.  **Submission of Changes:** After completing all steps and, ideally, performing internal checks (like running automated tests), Jules submits the changes. This typically involves creating a commit with a descriptive message, often on a new branch, which the developer can then review, test further, and merge.
 
-## Getting Started: Understanding the Basics
+## Conclusion
 
 Jules from Google aims to streamline the software development process by taking on certain tasks, thereby allowing engineers to dedicate more time to higher-level design, architectural decisions, and innovative problem-solving.
