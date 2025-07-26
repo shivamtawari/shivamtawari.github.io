@@ -22,7 +22,7 @@ repository               : "shivamtawari/shivamtawari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-pic.png"
   name             : "Shivam Tawari"
   pronouns         : "he/him"  
   bio              : "Research Associate at the Indian School of Business, passionate about data science and technology."
@@ -219,7 +219,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:permalink/
   portfolio:
     output: true
     permalink: /:collection/:path/

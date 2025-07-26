@@ -9,56 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV [here](/assets/cv/Shivam_Tawari_CV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Tech in Artificial Intelligence, Nagpur University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Research Associate** (April 2024 – Present)
+Indian School of Business (ISB), Hyderabad, India
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+*   Analyzed and processed large datasets (>50 GB) from sources like Factiva and Nielsen, using NLP to extract insights.
+*   Implemented Fuzzy Matching algorithms (95% accuracy) to reconcile data discrepancies.
+*   Used Hugging Face's API for entity recognition, improving precision by 20%.
+*   Deployed Meta AI's LLAMA 3 70B model for data standardization, increasing data quality by 30%.
+*   Evaluated and refined prompt engineering strategies for Google's Gemini 2.0 Flash.
+
+**Data Analyst** (November 2023 - June 2024)
+Capgemini, Bengaluru, India
+
+*   Designed a deep learning system for smoke/fire detection in football stadiums.
+*   Utilized YOLO V8, achieving 81% validation accuracy.
+*   Deployed the model on a Django web application using Microsoft Azure Cloud.
+
+**Research Intern** (June 2022 – September 2022)
+Center of Excellence in AI and ML - GHRCE, Nagpur, India
+
+*   Evaluated machine learning algorithms for Time Series Forecasting (2500 data points).
+*   Transformed data to stationary using Time Differencing.
+*   Concluded that feature transformation with technical indicators was key.
+*   Recommended a robust and efficient prediction pipeline.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Technologies/Frameworks:**  Hugging Face, GenAI, Large Language Models (LLMs), Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Flask, Django, GitHub, WordPress
+* **Developer Tools:** VS Code, PyCharm, Google Cloud Platform, Microsoft Azure Services, AWS EC2, Google Suite
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Winner, Smart India Hackathon, 2022
+* Winner, Accenture Applied Intelligence Hackathon, 2021
+* Second Runner up, SINE IITB AI for Healthcare Hackathon, 2021
