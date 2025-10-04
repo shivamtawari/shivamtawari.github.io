@@ -18,4 +18,4 @@ Prior to ISB, I worked as a Data Analyst at Capgemini, developing and deploying 
 My aim is to contribute significantly to the body of knowledge at the intersection of data science, AI, and business. I'm excited to conduct rigorous research that bridges the gap between cutting-edge technology and real-world business applications.
 
 
-Please feel free to explore my [research](/research/), [projects](/projects/), and [CV](/cv/) for more details. You can connect with me on [LinkedIn](https://www.linkedin.com/in/shivamtawari) 🔗 and [GitHub](https://github.com/shivamtawari) 🐙.
+Please feel free to explore my [research](/publications/), [projects](/projects/), and [CV](/cv/) for more details. You can connect with me on [LinkedIn](https://www.linkedin.com/in/shivamtawari) 🔗 and [GitHub](https://github.com/shivamtawari) 🐙.
